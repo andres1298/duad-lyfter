@@ -3,7 +3,7 @@ from pokedex import load_pokedex, get_evolution_chain
 def show_menu():
     pokedex = load_pokedex()
     while True:
-        print("\nPokémon Evolution Menu")
+        print("\nPokémon Evolution Menu - 2025")
         print("1. List all Pokémon")
         print("2. Show evolution chain for a Pokémon number")
         print("3. Exit")
