@@ -1,0 +1,757 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "evolution_chain": ["Bulbasaur", "Ivysaur", "Venusaur"]
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "evolution_chain": ["Bulbasaur", "Ivysaur", "Venusaur"]
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "evolution_chain": ["Bulbasaur", "Ivysaur", "Venusaur"]
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "evolution_chain": ["Charmander", "Charmeleon", "Charizard"]
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "evolution_chain": ["Charmander", "Charmeleon", "Charizard"]
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "evolution_chain": ["Charmander", "Charmeleon", "Charizard"]
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "evolution_chain": ["Squirtle", "Wartortle", "Blastoise"]
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "evolution_chain": ["Squirtle", "Wartortle", "Blastoise"]
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "evolution_chain": ["Squirtle", "Wartortle", "Blastoise"]
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "evolution_chain": ["Caterpie", "Metapod", "Butterfree"]
+  },
+  {
+    "id": 11,
+    "name": "Metapod",
+    "evolution_chain": ["Caterpie", "Metapod", "Butterfree"]
+  },
+  {
+    "id": 12,
+    "name": "Butterfree",
+    "evolution_chain": ["Caterpie", "Metapod", "Butterfree"]
+  },
+  {
+    "id": 13,
+    "name": "Weedle",
+    "evolution_chain": ["Weedle", "Kakuna", "Beedrill"]
+  },
+  {
+    "id": 14,
+    "name": "Kakuna",
+    "evolution_chain": ["Weedle", "Kakuna", "Beedrill"]
+  },
+  {
+    "id": 15,
+    "name": "Beedrill",
+    "evolution_chain": ["Weedle", "Kakuna", "Beedrill"]
+  },
+  {
+    "id": 16,
+    "name": "Pidgey",
+    "evolution_chain": ["Pidgey", "Pidgeotto", "Pidgeot"]
+  },
+  {
+    "id": 17,
+    "name": "Pidgeotto",
+    "evolution_chain": ["Pidgey", "Pidgeotto", "Pidgeot"]
+  },
+  {
+    "id": 18,
+    "name": "Pidgeot",
+    "evolution_chain": ["Pidgey", "Pidgeotto", "Pidgeot"]
+  },
+  {
+    "id": 19,
+    "name": "Rattata",
+    "evolution_chain": ["Rattata", "Raticate"]
+  },
+  {
+    "id": 20,
+    "name": "Raticate",
+    "evolution_chain": ["Rattata", "Raticate"]
+  },
+  {
+    "id": 21,
+    "name": "Spearow",
+    "evolution_chain": ["Spearow", "Fearow"]
+  },
+  {
+    "id": 22,
+    "name": "Fearow",
+    "evolution_chain": ["Spearow", "Fearow"]
+  },
+  {
+    "id": 23,
+    "name": "Ekans",
+    "evolution_chain": ["Ekans", "Arbok"]
+  },
+  {
+    "id": 24,
+    "name": "Arbok",
+    "evolution_chain": ["Ekans", "Arbok"]
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "evolution_chain": ["Pikachu", "Raichu"]
+  },
+  {
+    "id": 26,
+    "name": "Raichu",
+    "evolution_chain": ["Pikachu", "Raichu"]
+  },
+  {
+    "id": 27,
+    "name": "Sandshrew",
+    "evolution_chain": ["Sandshrew", "Sandslash"]
+  },
+  {
+    "id": 28,
+    "name": "Sandslash",
+    "evolution_chain": ["Sandshrew", "Sandslash"]
+  },
+  {
+    "id": 29,
+    "name": "Nidoran♀",
+    "evolution_chain": ["Nidoran♀", "Nidorina", "Nidoqueen"]
+  },
+  {
+    "id": 30,
+    "name": "Nidorina",
+    "evolution_chain": ["Nidoran♀", "Nidorina", "Nidoqueen"]
+  },
+  {
+    "id": 31,
+    "name": "Nidoqueen",
+    "evolution_chain": ["Nidoran♀", "Nidorina", "Nidoqueen"]
+  },
+  {
+    "id": 32,
+    "name": "Nidoran♂",
+    "evolution_chain": ["Nidoran♂", "Nidorino", "Nidoking"]
+  },
+  {
+    "id": 33,
+    "name": "Nidorino",
+    "evolution_chain": ["Nidoran♂", "Nidorino", "Nidoking"]
+  },
+  {
+    "id": 34,
+    "name": "Nidoking",
+    "evolution_chain": ["Nidoran♂", "Nidorino", "Nidoking"]
+  },
+  {
+    "id": 35,
+    "name": "Clefairy",
+    "evolution_chain": ["Clefairy", "Clefable"]
+  },
+  {
+    "id": 36,
+    "name": "Clefable",
+    "evolution_chain": ["Clefairy", "Clefable"]
+  },
+  {
+    "id": 37,
+    "name": "Vulpix",
+    "evolution_chain": ["Vulpix", "Ninetales"]
+  },
+  {
+    "id": 38,
+    "name": "Ninetales",
+    "evolution_chain": ["Vulpix", "Ninetales"]
+  },
+  {
+    "id": 39,
+    "name": "Jigglypuff",
+    "evolution_chain": ["Jigglypuff", "Wigglytuff"]
+  },
+  {
+    "id": 40,
+    "name": "Wigglytuff",
+    "evolution_chain": ["Jigglypuff", "Wigglytuff"]
+  },
+  {
+    "id": 41,
+    "name": "Zubat",
+    "evolution_chain": ["Zubat", "Golbat"]
+  },
+  {
+    "id": 42,
+    "name": "Golbat",
+    "evolution_chain": ["Zubat", "Golbat"]
+  },
+  {
+    "id": 43,
+    "name": "Oddish",
+    "evolution_chain": ["Oddish", "Gloom", "Vileplume"]
+  },
+  {
+    "id": 44,
+    "name": "Gloom",
+    "evolution_chain": ["Oddish", "Gloom", "Vileplume"]
+  },
+  {
+    "id": 45,
+    "name": "Vileplume",
+    "evolution_chain": ["Oddish", "Gloom", "Vileplume"]
+  },
+  {
+    "id": 46,
+    "name": "Paras",
+    "evolution_chain": ["Paras", "Parasect"]
+  },
+  {
+    "id": 47,
+    "name": "Parasect",
+    "evolution_chain": ["Paras", "Parasect"]
+  },
+  {
+    "id": 48,
+    "name": "Venonat",
+    "evolution_chain": ["Venonat", "Venomoth"]
+  },
+  {
+    "id": 49,
+    "name": "Venomoth",
+    "evolution_chain": ["Venonat", "Venomoth"]
+  },
+  {
+    "id": 50,
+    "name": "Diglett",
+    "evolution_chain": ["Diglett", "Dugtrio"]
+  },
+  {
+    "id": 51,
+    "name": "Dugtrio",
+    "evolution_chain": ["Diglett", "Dugtrio"]
+  },
+  {
+    "id": 52,
+    "name": "Meowth",
+    "evolution_chain": ["Meowth", "Persian"]
+  },
+  {
+    "id": 53,
+    "name": "Persian",
+    "evolution_chain": ["Meowth", "Persian"]
+  },
+  {
+    "id": 54,
+    "name": "Psyduck",
+    "evolution_chain": ["Psyduck", "Golduck"]
+  },
+  {
+    "id": 55,
+    "name": "Golduck",
+    "evolution_chain": ["Psyduck", "Golduck"]
+  },
+  {
+    "id": 56,
+    "name": "Mankey",
+    "evolution_chain": ["Mankey", "Primeape"]
+  },
+  {
+    "id": 57,
+    "name": "Primeape",
+    "evolution_chain": ["Mankey", "Primeape"]
+  },
+  {
+    "id": 58,
+    "name": "Growlithe",
+    "evolution_chain": ["Growlithe", "Arcanine"]
+  },
+  {
+    "id": 59,
+    "name": "Arcanine",
+    "evolution_chain": ["Growlithe", "Arcanine"]
+  },
+  {
+    "id": 60,
+    "name": "Poliwag",
+    "evolution_chain": ["Poliwag", "Poliwhirl", "Poliwrath"]
+  },
+  {
+    "id": 61,
+    "name": "Poliwhirl",
+    "evolution_chain": ["Poliwag", "Poliwhirl", "Poliwrath"]
+  },
+  {
+    "id": 62,
+    "name": "Poliwrath",
+    "evolution_chain": ["Poliwag", "Poliwhirl", "Poliwrath"]
+  },
+  {
+    "id": 63,
+    "name": "Abra",
+    "evolution_chain": ["Abra", "Kadabra", "Alakazam"]
+  },
+  {
+    "id": 64,
+    "name": "Kadabra",
+    "evolution_chain": ["Abra", "Kadabra", "Alakazam"]
+  },
+  {
+    "id": 65,
+    "name": "Alakazam",
+    "evolution_chain": ["Abra", "Kadabra", "Alakazam"]
+  },
+  {
+    "id": 66,
+    "name": "Machop",
+    "evolution_chain": ["Machop", "Machoke", "Machamp"]
+  },
+  {
+    "id": 67,
+    "name": "Machoke",
+    "evolution_chain": ["Machop", "Machoke", "Machamp"]
+  },
+  {
+    "id": 68,
+    "name": "Machamp",
+    "evolution_chain": ["Machop", "Machoke", "Machamp"]
+  },
+  {
+    "id": 69,
+    "name": "Bellsprout",
+    "evolution_chain": ["Bellsprout", "Weepinbell", "Victreebel"]
+  },
+  {
+    "id": 70,
+    "name": "Weepinbell",
+    "evolution_chain": ["Bellsprout", "Weepinbell", "Victreebel"]
+  },
+  {
+    "id": 71,
+    "name": "Victreebel",
+    "evolution_chain": ["Bellsprout", "Weepinbell", "Victreebel"]
+  },
+  {
+    "id": 72,
+    "name": "Tentacool",
+    "evolution_chain": ["Tentacool", "Tentacruel"]
+  },
+  {
+    "id": 73,
+    "name": "Tentacruel",
+    "evolution_chain": ["Tentacool", "Tentacruel"]
+  },
+  {
+    "id": 74,
+    "name": "Geodude",
+    "evolution_chain": ["Geodude", "Graveler", "Golem"]
+  },
+  {
+    "id": 75,
+    "name": "Graveler",
+    "evolution_chain": ["Geodude", "Graveler", "Golem"]
+  },
+  {
+    "id": 76,
+    "name": "Golem",
+    "evolution_chain": ["Geodude", "Graveler", "Golem"]
+  },
+  {
+    "id": 77,
+    "name": "Ponyta",
+    "evolution_chain": ["Ponyta", "Rapidash"]
+  },
+  {
+    "id": 78,
+    "name": "Rapidash",
+    "evolution_chain": ["Ponyta", "Rapidash"]
+  },
+  {
+    "id": 79,
+    "name": "Slowpoke",
+    "evolution_chain": ["Slowpoke", "Slowbro"]
+  },
+  {
+    "id": 80,
+    "name": "Slowbro",
+    "evolution_chain": ["Slowpoke", "Slowbro"]
+  },
+  {
+    "id": 81,
+    "name": "Magnemite",
+    "evolution_chain": ["Magnemite", "Magneton"]
+  },
+  {
+    "id": 82,
+    "name": "Magneton",
+    "evolution_chain": ["Magnemite", "Magneton"]
+  },
+  {
+    "id": 83,
+    "name": "Farfetch'd",
+    "evolution_chain": ["Farfetch'd"]
+  },
+  {
+    "id": 84,
+    "name": "Doduo",
+    "evolution_chain": ["Doduo", "Dodrio"]
+  },
+  {
+    "id": 85,
+    "name": "Dodrio",
+    "evolution_chain": ["Doduo", "Dodrio"]
+  },
+  {
+    "id": 86,
+    "name": "Seel",
+    "evolution_chain": ["Seel", "Dewgong"]
+  },
+  {
+    "id": 87,
+    "name": "Dewgong",
+    "evolution_chain": ["Seel", "Dewgong"]
+  },
+  {
+    "id": 88,
+    "name": "Grimer",
+    "evolution_chain": ["Grimer", "Muk"]
+  },
+  {
+    "id": 89,
+    "name": "Muk",
+    "evolution_chain": ["Grimer", "Muk"]
+  },
+  {
+    "id": 90,
+    "name": "Shellder",
+    "evolution_chain": ["Shellder", "Cloyster"]
+  },
+  {
+    "id": 91,
+    "name": "Cloyster",
+    "evolution_chain": ["Shellder", "Cloyster"]
+  },
+  {
+    "id": 92,
+    "name": "Gastly",
+    "evolution_chain": ["Gastly", "Haunter", "Gengar"]
+  },
+  {
+    "id": 93,
+    "name": "Haunter",
+    "evolution_chain": ["Gastly", "Haunter", "Gengar"]
+  },
+  {
+    "id": 94,
+    "name": "Gengar",
+    "evolution_chain": ["Gastly", "Haunter", "Gengar"]
+  },
+  {
+    "id": 95,
+    "name": "Onix",
+    "evolution_chain": ["Onix"]
+  },
+  {
+    "id": 96,
+    "name": "Drowzee",
+    "evolution_chain": ["Drowzee", "Hypno"]
+  },
+  {
+    "id": 97,
+    "name": "Hypno",
+    "evolution_chain": ["Drowzee", "Hypno"]
+  },
+  {
+    "id": 98,
+    "name": "Krabby",
+    "evolution_chain": ["Krabby", "Kingler"]
+  },
+  {
+    "id": 99,
+    "name": "Kingler",
+    "evolution_chain": ["Krabby", "Kingler"]
+  },
+  {
+    "id": 100,
+    "name": "Voltorb",
+    "evolution_chain": ["Voltorb", "Electrode"]
+  },
+  {
+    "id": 101,
+    "name": "Electrode",
+    "evolution_chain": ["Voltorb", "Electrode"]
+  },
+  {
+    "id": 102,
+    "name": "Exeggcute",
+    "evolution_chain": ["Exeggcute", "Exeggutor"]
+  },
+  {
+    "id": 103,
+    "name": "Exeggutor",
+    "evolution_chain": ["Exeggcute", "Exeggutor"]
+  },
+  {
+    "id": 104,
+    "name": "Cubone",
+    "evolution_chain": ["Cubone", "Marowak"]
+  },
+  {
+    "id": 105,
+    "name": "Marowak",
+    "evolution_chain": ["Cubone", "Marowak"]
+  },
+  {
+    "id": 106,
+    "name": "Hitmonlee",
+    "evolution_chain": ["Hitmonlee"]
+  },
+  {
+    "id": 107,
+    "name": "Hitmonchan",
+    "evolution_chain": ["Hitmonchan"]
+  },
+  {
+    "id": 108,
+    "name": "Lickitung",
+    "evolution_chain": ["Lickitung"]
+  },
+  {
+    "id": 109,
+    "name": "Koffing",
+    "evolution_chain": ["Koffing", "Weezing"]
+  },
+  {
+    "id": 110,
+    "name": "Weezing",
+    "evolution_chain": ["Koffing", "Weezing"]
+  },
+  {
+    "id": 111,
+    "name": "Rhyhorn",
+    "evolution_chain": ["Rhyhorn", "Rhydon"]
+  },
+  {
+    "id": 112,
+    "name": "Rhydon",
+    "evolution_chain": ["Rhyhorn", "Rhydon"]
+  },
+  {
+    "id": 113,
+    "name": "Chansey",
+    "evolution_chain": ["Chansey"]
+  },
+  {
+    "id": 114,
+    "name": "Tangela",
+    "evolution_chain": ["Tangela"]
+  },
+  {
+    "id": 115,
+    "name": "Kangaskhan",
+    "evolution_chain": ["Kangaskhan"]
+  },
+  {
+    "id": 116,
+    "name": "Horsea",
+    "evolution_chain": ["Horsea", "Seadra"]
+  },
+  {
+    "id": 117,
+    "name": "Seadra",
+    "evolution_chain": ["Horsea", "Seadra"]
+  },
+  {
+    "id": 118,
+    "name": "Goldeen",
+    "evolution_chain": ["Goldeen", "Seaking"]
+  },
+  {
+    "id": 119,
+    "name": "Seaking",
+    "evolution_chain": ["Goldeen", "Seaking"]
+  },
+  {
+    "id": 120,
+    "name": "Staryu",
+    "evolution_chain": ["Staryu", "Starmie"]
+  },
+  {
+    "id": 121,
+    "name": "Starmie",
+    "evolution_chain": ["Staryu", "Starmie"]
+  },
+  {
+    "id": 122,
+    "name": "Mr. Mime",
+    "evolution_chain": ["Mr. Mime"]
+  },
+  {
+    "id": 123,
+    "name": "Scyther",
+    "evolution_chain": ["Scyther"]
+  },
+  {
+    "id": 124,
+    "name": "Jynx",
+    "evolution_chain": ["Jynx"]
+  },
+  {
+    "id": 125,
+    "name": "Electabuzz",
+    "evolution_chain": ["Electabuzz"]
+  },
+  {
+    "id": 126,
+    "name": "Magmar",
+    "evolution_chain": ["Magmar"]
+  },
+  {
+    "id": 127,
+    "name": "Pinsir",
+    "evolution_chain": ["Pinsir"]
+  },
+  {
+    "id": 128,
+    "name": "Tauros",
+    "evolution_chain": ["Tauros"]
+  },
+  {
+    "id": 129,
+    "name": "Magikarp",
+    "evolution_chain": ["Magikarp", "Gyarados"]
+  },
+  {
+    "id": 130,
+    "name": "Gyarados",
+    "evolution_chain": ["Magikarp", "Gyarados"]
+  },
+  {
+    "id": 131,
+    "name": "Lapras",
+    "evolution_chain": ["Lapras"]
+  },
+  {
+    "id": 132,
+    "name": "Ditto",
+    "evolution_chain": ["Ditto"]
+  },
+  {
+    "id": 133,
+    "name": "Eevee",
+    "evolution_chain": ["Eevee", "Vaporeon", "Jolteon", "Flareon"]
+  },
+  {
+    "id": 134,
+    "name": "Vaporeon",
+    "evolution_chain": ["Eevee", "Vaporeon", "Jolteon", "Flareon"]
+  },
+  {
+    "id": 135,
+    "name": "Jolteon",
+    "evolution_chain": ["Eevee", "Vaporeon", "Jolteon", "Flareon"]
+  },
+  {
+    "id": 136,
+    "name": "Flareon",
+    "evolution_chain": ["Eevee", "Vaporeon", "Jolteon", "Flareon"]
+  },
+  {
+    "id": 137,
+    "name": "Porygon",
+    "evolution_chain": ["Porygon"]
+  },
+  {
+    "id": 138,
+    "name": "Omanyte",
+    "evolution_chain": ["Omanyte", "Omastar"]
+  },
+  {
+    "id": 139,
+    "name": "Omastar",
+    "evolution_chain": ["Omanyte", "Omastar"]
+  },
+  {
+    "id": 140,
+    "name": "Kabuto",
+    "evolution_chain": ["Kabuto", "Kabutops"]
+  },
+  {
+    "id": 141,
+    "name": "Kabutops",
+    "evolution_chain": ["Kabuto", "Kabutops"]
+  },
+  {
+    "id": 142,
+    "name": "Aerodactyl",
+    "evolution_chain": ["Aerodactyl"]
+  },
+  {
+    "id": 143,
+    "name": "Snorlax",
+    "evolution_chain": ["Snorlax"]
+  },
+  {
+    "id": 144,
+    "name": "Articuno",
+    "evolution_chain": ["Articuno"]
+  },
+  {
+    "id": 145,
+    "name": "Zapdos",
+    "evolution_chain": ["Zapdos"]
+  },
+  {
+    "id": 146,
+    "name": "Moltres",
+    "evolution_chain": ["Moltres"]
+  },
+  {
+    "id": 147,
+    "name": "Dratini",
+    "evolution_chain": ["Dratini", "Dragonair", "Dragonite"]
+  },
+  {
+    "id": 148,
+    "name": "Dragonair",
+    "evolution_chain": ["Dratini", "Dragonair", "Dragonite"]
+  },
+  {
+    "id": 149,
+    "name": "Dragonite",
+    "evolution_chain": ["Dratini", "Dragonair", "Dragonite"]
+  },
+  {
+    "id": 150,
+    "name": "Mewtwo",
+    "evolution_chain": ["Mewtwo"]
+  },
+  {
+    "id": 151,
+    "name": "Mew",
+    "evolution_chain": ["Mew"]
+  }
+]
