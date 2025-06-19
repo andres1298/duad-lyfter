@@ -13,7 +13,7 @@ def show_menu():
             for entry in pokedex:
                 print(f"{entry['id']:3}: {entry['name']}")
         elif choice == "2":
-            num_input = input("Enter Pokémon number (1-151): ").strip()
+            num_input = input("Enter Pokémon number (1-251): ").strip()
             if not num_input.isdigit():
                 print("Please enter a valid number.")
                 continue
